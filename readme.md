@@ -1,4 +1,5 @@
 # Design Patterns Examples
+This repository consists of small applications that I applied while learning design patterns.
 ## 1. Creational Patterns
 ## 2. Structural Patterns
 
