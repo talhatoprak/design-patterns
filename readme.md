@@ -26,5 +26,6 @@ Reference:
 `https://www.youtube.com/watch?v=Op97BRovYtA`
 
 ## Toast
+![img.png](src/com/talhatoprak/dp/structural/decorator/toast/toast-uml-img.png)
 Reference:
 `https://www.udemy.com/share/104gtw3@csepCBOV1933CjrHbKE3dSJw1jc37TY2AAKiPwaQ-RdnuaE2IsxUYYVKSeO7Qhc8/`
